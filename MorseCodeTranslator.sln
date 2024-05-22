@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorseCodeTranslator", "MorseCodeTranslator.csproj", "{033E71AF-2D85-44FD-A4BA-FB3D1053B880}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B091D3F-48F4-434F-8853-165F016BA0EE}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeTest", "..\MorseCodeTest\MorseCodeTest.csproj", "{439FA489-7EBA-41B7-97C1-F6A3C61A20D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033E71AF-2D85-44FD-A4BA-FB3D1053B880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033E71AF-2D85-44FD-A4BA-FB3D1053B880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033E71AF-2D85-44FD-A4BA-FB3D1053B880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033E71AF-2D85-44FD-A4BA-FB3D1053B880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439FA489-7EBA-41B7-97C1-F6A3C61A20D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439FA489-7EBA-41B7-97C1-F6A3C61A20D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439FA489-7EBA-41B7-97C1-F6A3C61A20D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439FA489-7EBA-41B7-97C1-F6A3C61A20D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D6BB67-0F8B-409F-AFF9-A3E02873BD90}
+	EndGlobalSection
+EndGlobal
